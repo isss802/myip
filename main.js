@@ -9,7 +9,7 @@ export function onClientRequest(request) {
 
     request.respondWith(
         200, {},
-        JSON.stringify(info))
+        info)
 }
 
 export function onClientResponse(request, response) {
