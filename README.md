@@ -6,8 +6,8 @@
 
 Variables need to be set in Property
 
-![1](https://user-images.githubusercontent.com/4577575/158518041-354ee1b6-b75e-4e1f-8146-92a10ea5cfe1.png)
 ![2](https://user-images.githubusercontent.com/4577575/158518085-674dd50b-4dfb-4705-9b5b-869e1d4de77d.png)
+![1](https://user-images.githubusercontent.com/4577575/158518041-354ee1b6-b75e-4e1f-8146-92a10ea5cfe1.png)
 
 Variable Description
 https://techdocs.akamai.com/property-mgr/reference/built-in-system-variables
